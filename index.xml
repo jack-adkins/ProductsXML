@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+<products>
+    <product>
+        <name>Soccer Ball</name>
+        <description>Men's professional-grade soccer ball for outdoor use</description>
+        <price>$30</price>
+        <category>soccer</category>
+        <category>outdoor</category>
+    </product>
+    
+    <product>
+        <name>Soccer Cleats</name>
+        <description>Durable soccer cleats with metal firm-ground studs</description>
+        <price>$90</price>
+        <category>soccer</category>
+        <category>outdoor</category>
+    </product>
+    
+    <product>
+        <name>Shin Guards</name>
+        <description>High-impact resistant shin guards fitted with the latest in protection tech with adjustable straps</description>
+        <price>$28</price>
+        <category>soccer</category>
+        <category>outdoor</category>
+    </product>
+
+    <product>
+        <name>Basketball</name>
+        <description>Indoorbasketball, size 29.5</description>
+        <price>$35</price>
+        <category>basketball</category>
+        <category>indoor</category>
+    </product>
+    
+    <product>
+        <name>Outdoor Basketball Hoop</name>
+        <description>Adjustable basketball hoop with a 48-inch shatterproof backboard</description>
+        <price>$270</price>
+        <category>basketball</category>
+        <category>outdoor</category>
+    </product>
+    
+    <product>
+        <name>Sweatband</name>
+        <description>Breathable headband for keeping hair/sweat out of your eyes</description>
+        <price>$18</price>
+        <category>basketball</category>
+        <category>indoor</category>
+    </product>
+
+    <product>
+        <name>Tennis Racket</name>
+        <description>Lightweight tennis racket with a high-tension string pattern and graphite frame</description>
+        <price>$144</price>
+        <category>tennis</category>
+        <category>outdoor</category>
+    </product>
+    
+    <product>
+        <name>Tennis Balls</name>
+        <description>Pack of 3 pressurized tennis balls for professional matches</description>
+        <price>$13</price>
+        <category>tennis</category>
+        <category>outdoor</category>
+    </product>
+</products>
